@@ -11,6 +11,5 @@ int main(void)
 
 	printf("첫번째 발견한 'n'문자의 위치 : %d\n", ch1 - str + 1);  //4
 	printf("마지막 발견한 'n'문자의 위치 : %d\n", ch2 - str + 1);  //24
-
 	return 0;
 }
